@@ -4,7 +4,7 @@ Welcome to the Rural Health Connect project repository! This is a React-based we
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
+- **Website**: [Rural Health Connect](https://mrmanny1.github.io/Rural-Health-Connect/ "Rural Health Connect")
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -21,49 +21,49 @@ Welcome to the Rural Health Connect project repository! This is a React-based we
 
 ### Hero Section
 
-![Health-Plus Image-1](https://i.postimg.cc/0Q4839KN/Health-Plus-Image1.png)
+![Rural-Health-Connect Image-1](https://i.postimg.cc/0Q4839KN/Rural-Health-Connect-Image1.png)
 
 ### Information Section
 
-![Health-Plus Image-2](https://i.postimg.cc/zvRJY4TF/Health-Plus-Image2.png)
+![Rural-Health-Connect Image-2](https://i.postimg.cc/zvRJY4TF/Rural-Health-Connect-Image2.png)
 
 ### About Section
 
-![Health-Plus Image-3](https://i.postimg.cc/8zGrwbV0/Health-Plus-Image3.png)
+![Rural-Health-Connect Image-3](https://i.postimg.cc/8zGrwbV0/Rural-Health-Connect-Image3.png)
 
-### Why Choose Health Plus?
+### Why Choose Rural Health Connect?
 
-![Health-Plus Image-4](https://i.postimg.cc/fknMz5Kn/Health-Plus-Image4.png)
+![Rural-Health-Connect Image-4](https://i.postimg.cc/fknMz5Kn/Rural-Health-Connect-Image4.png)
 
 ### Reviews Section
 
-![Health-Plus Image-5](https://i.postimg.cc/xjkHdCRt/Health-Plus-Image5.png)
+![Rural-Health-Connect Image-5](https://i.postimg.cc/xjkHdCRt/Rural-Health-Connect-Image5.png)
 
 ### Doctors Section
 
-![Health-Plus Image-6](https://i.postimg.cc/8PM6h0xv/Health-Plus-Image6.png)
+![Rural-Health-Connect Image-6](https://i.postimg.cc/8PM6h0xv/Rural-Health-Connect-Image6.png)
 
 ### Footer Section
 
-![Health-Plus Image-7](https://i.postimg.cc/sftWGrHy/Health-Plus-Image7.png)
+![Rural-Health-Connect Image-7](https://i.postimg.cc/sftWGrHy/Rural-Health-Connect-Image7.png)
 
 ### Legal Documents Page
 
-![Health-Plus Image-8](https://i.postimg.cc/FKskXszb/Health-Plus-Image8.png)
+![Rural-Health-Connect Image-8](https://i.postimg.cc/FKskXszb/Rural-Health-Connect-Image8.png)
 
 ### Appointment Form Page
 
-![Health-Plus Image-9](https://i.postimg.cc/2SxLtBk8/Health-Plus-Image9.png)
+![Rural-Health-Connect Image-9](https://i.postimg.cc/2SxLtBk8/Rural-Health-Connect-Image9.png)
 
 ## Deployment
 
-The website is deployed using GitHub Pages and can be accessed at [https://alkaison.github.io/Health-Plus/](https://alkaison.github.io/Health-Plus/).
+The website is deployed using GitHub Pages and can be accessed at [https://mrmanny1.github.io/Rural-Health-Connect/](https://mrmanny1.github.io/Rural-Health-Connect/).
 
 ## Getting Started
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
+1. Clone this repository: `git clone https://github.com/Mrmanny1/Rural-Health-Connect.git`
 2. Navigate to the project directory: `cd Health-Plus`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
@@ -75,4 +75,4 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE "Project LICENSE").
+This project is licensed under the [ALX License](./LICENSE "Project LICENSE").
